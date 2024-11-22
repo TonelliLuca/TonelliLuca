@@ -27,14 +27,19 @@
 
 ### **GitHub Contribution Streak** 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonelliLuca&theme=radical)
+<!--
 
 ### **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonelliLuca&layout=compact&theme=radical)
+-->
 
 ### **GitHub Trophies**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=TonelliLuca&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
+### 💻 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/luca-tonelli-072553175)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:luca.tonelli1999@gmail.com)  
 
 
