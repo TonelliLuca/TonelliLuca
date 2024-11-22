@@ -25,6 +25,9 @@
 ### **GitHub Stats**  
 ![TonelliLuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonelliLuca&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonelliLuca&theme=radical)
+
+
 ### **GitHub Trophies**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=TonelliLuca&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
