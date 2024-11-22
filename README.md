@@ -24,7 +24,7 @@
 ![Croquet](https://img.shields.io/badge/-Croquet-4F46E5?style=flat-square)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
-
+<!--
 ---
 
 ## 📈 **GitHub Stats**  
@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!--
+
 ---
 
 ## 🌠 **Explore My Projects**  
