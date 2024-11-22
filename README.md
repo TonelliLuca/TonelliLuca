@@ -2,7 +2,7 @@
 
 🎓 **Education**  
 🎓 **Bachelor's Degree**: Ingegneria e Scienze Informatiche - UniBo Cesena Campus  
-📚 **Master's Degree**: Ingegneria e Scienze Informatiche (Laurea Magistrale) - UniBo Cesena Campus  
+📚 **Master's Degree**: Ingegneria e Scienze Informatiche - UniBo Cesena Campus  
 
 ---
 
@@ -39,7 +39,6 @@
 ---
 
 ### 💻 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/luca-tonelli-072553175)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:luca.tonelli1999@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/luca-tonelli-072553175) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:luca.tonelli1999@gmail.com)  
 
 
