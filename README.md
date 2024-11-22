@@ -15,30 +15,8 @@
 
 ---
 
-<!--
----
-
-## 📈 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+### 🌌 **Always Exploring**  
+🚀 Continuously diving into new languages, frameworks, and technologies to expand horizons.  
+💡 Passionate about **concurrent programming**, **software architecture**, and designing efficient systems.  
 
 ---
-
-## 🌠 **Explore My Projects**  
-| 🚀 **Project**            | 💡 **Description**                                  | 🔗 **Link**                         |  
-|---------------------------|----------------------------------------------------|-------------------------------------|  
-| 🛰️ **HoloLens Toolkit App** | Mixed reality app developed with Unity and MRTK     | [GitHub](https://github.com)        |  
-| 🌌 **AI Data Explorer**     | An AI-based data analysis tool                     | [GitHub](https://github.com)        |  
-| 🛸 **Scala Web App**        | A scalable web application built with Scala 3      | [GitHub](https://github.com)        |  
-
----
-
-### 🌌 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/YourProfile)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:YourEmail@example.com)  
---!>
